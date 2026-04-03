@@ -48,10 +48,11 @@ p {
 }
 
 .info {
-    flex-wrap: wrap;
+    flex-wrap:wrap;
     width: 1100px;
     margin: 0px;
     display:flex;
+    justify-content:center;
 }
 
 article {
